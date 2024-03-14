@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.11.4 on win32)" generated="20240314 16:53:51.753" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Administrator\.vscode\extensions\robocorp.robotframework-lsp-1.11.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Open Google">
+<msg timestamp="20240314 16:53:52.367" level="FAIL">No keyword with name 'Open Google' found.</msg>
+<status status="FAIL" starttime="20240314 16:53:52.367" endtime="20240314 16:53:52.367"/>
+</kw>
+<kw name="Input Search Term">
+<status status="NOT RUN" starttime="20240314 16:53:52.368" endtime="20240314 16:53:52.368"/>
+</kw>
+<kw name="press Enter Google Search">
+<status status="NOT RUN" starttime="20240314 16:53:52.369" endtime="20240314 16:53:52.369"/>
+</kw>
+<kw name="Verify Search Results">
+<status status="NOT RUN" starttime="20240314 16:53:52.370" endtime="20240314 16:53:52.370"/>
+</kw>
+<kw name="Close Browser">
+<status status="NOT RUN" starttime="20240314 16:53:52.371" endtime="20240314 16:53:52.371"/>
+</kw>
+<status status="PASS" starttime="20240314 16:53:51.769" endtime="20240314 16:54:25.824"/>
+</kw>
+<status status="PASS" starttime="20240314 16:53:51.769" endtime="20240314 16:54:25.824"/>
+</test>
+<status status="PASS" starttime="20240314 16:53:51.753" endtime="20240314 16:54:25.825"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
